@@ -1,0 +1,17 @@
+{
+    "name": "Footbally",
+    "short_name": "Footbally",
+    "description": "Aplikasi PWA untuk submission 2 dicoding",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "907308441017"
+}
